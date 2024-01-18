@@ -36,9 +36,9 @@ bmp280.standby = BMP280_STANDBY_250
 bmp280.iir = BMP280_IIR_FILTER_2
 
 print("BMP280 Object created successfully!\n")
-WIFI_SSID = 'HM'
-WIFI_PASS = 'password123'
-BLYNK_AUTH = 'INw8-J5foj3V5CDyJfacj5ZRSfVAN5-k'
+WIFI_SSID = 'Wifi SSID'
+WIFI_PASS = 'Wifi Password'
+BLYNK_AUTH = 'Blynk Token id'
 
 # Action as Wifi Station Mode (Client) 
 wifi = network.WLAN(network.STA_IF)
