@@ -1,6 +1,6 @@
 # Weather-Station-with-auto-fan-speed-control-based-on-temperature
 
-In addressing the problem statement, our project aims to tackle the increasing demand for accurate 
+In addressing the problem statement, my project aims to tackle the increasing demand for accurate 
 and real-time weather information through the exploration of the Internet of Things (IoT). 
 Leveraging the WiFi capabilities of the Raspberry Pi Pico W, we seek to establish a seamless 
 transmission of weather data from the versatile BMP280 sensor to Blynk 2.0 Applications. The 
